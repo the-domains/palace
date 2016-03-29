@@ -2,18 +2,18 @@
     <channel>
         <title><![CDATA[Palace]]></title>
         <description><![CDATA[Palace]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/palace/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 27 Mar 2016 22:03:59 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Tue, 29 Mar 2016 01:28:53 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/palace/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[The Singularity: A Philosophical Analysis
 ]]></title>
             <description><![CDATA[<article><h1>The Singularity: A Philosophical Analysis
 </h1><p></p></article>]]></description>
-            <link>undefinedthe-singularity-a-philosophical-analysis/index.html</link>
+            <link>https://thegrid.ai/palace/the-singularity-a-philosophical-analysis/index.html</link>
             <guid isPermaLink="false">82f774da-2023-4a86-978f-a02d23d94afd</guid>
-            <pubDate>Sun, 27 Mar 2016 22:03:44 GMT</pubDate>
+            <pubDate>Tue, 29 Mar 2016 01:28:36 GMT</pubDate>
         </item>
     </channel>
 </rss>
