@@ -1,24 +1,24 @@
 ---
 inFeed: true
 hasPage: true
-inNav: false
+inNav: true
 inLanguage: null
-starred: false
+starred: true
 keywords: []
 description: ''
-datePublished: '2016-03-27T22:03:44.526Z'
-dateModified: '2016-03-27T21:49:07.377Z'
+datePublished: '2016-03-29T01:28:36.831Z'
+dateModified: '2016-03-29T01:28:31.789Z'
 title: |
   The Singularity: A Philosophical Analysis
 author: []
+sourcePath: _posts/2016-03-27-the-singularity-a-philosophical-analysis.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-03-27-the-singularity-a-philosophical-analysis.md
-published: true
 url: the-singularity-a-philosophical-analysis/index.html
 _type: Article
 
@@ -56,7 +56,7 @@ design cycle, leading to a limit point soon afterwards.
 The argument for a speed explosion was set out by the artificial intelligence researcher Ray
 Solomono in his 1985 article "The Time Scale of Artificial Intelligence". Eliezer Yudkowsky
 gives a succinct version of the argument in his 1996 article "Staring at the Singularity": 
-
+> 
 > Computing speed doubles every two subjective years of work. Two years after Ar-
 > tificial Intelligences reach human equivalence, their speed doubles. One year later,
 > their speed doubles again. Six months - three months - 1.5 months ... Singularity.
